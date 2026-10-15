@@ -8,6 +8,8 @@ Static working site for the Tambopata landscape indicators.
 
 The site has three tabs: **Codebook**, **Indicators** and **Analysis**. The interface, variable documentation and indicator definitions are in English. Analysis uses simulated data only; pending definitions are identified throughout the site.
 
+Incluye tres pestañas: **Codebook**, **Indicators** y **Analysis**. El dashboard utiliza exclusivamente datos simulados para ilustrar posibles análisis. Las definiciones pendientes están identificadas dentro del sitio.
+
 ## Spanish questions and source traceability
 
 Open a variable to see its English documentation. When Spanish wording is available, a **Question in Spanish** box appears at the end of the detail panel. It retains the Spanish question and response options, distinguishes source-based wording, adaptations, proposed translations and project drafts, and links the documented source and original item identifier.
